@@ -1,0 +1,6 @@
+youtube gibi sosyal medyalara googleden erişmek için: içinde "sosyal" geçen cümle kur sonra bekle ve açmak istediğin sosyal medyanın ismini söyle
+Bugün hangi gün öğrenmek için: içinde "tarih" geçen cümleler kur
+Anlık kur verilerini öğrenmek için: kurulan cumlenin içinde "kur verilerini getir" veya "döviz" ifadesini kullan
+Saati saat ve dakika olarak öğrenmek için: kurulan cumlenin içinde "saat kaç" ifadesini kullan
+Saati saat ,dakika ve saniye olarak öğrenmek için: kurulan cumlenin içinde "saati söyle" ifadesini kullan
+Programı kapatmak için: kurulan cumlenin içinde "görüşürüz" veya "programı kapat" veya "sonra görüşürüz" söyle
