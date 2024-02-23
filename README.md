@@ -1,2 +1,2 @@
-this is like a my first python project
-when i learn python  i start study for make a project better than before project
+Bu basit proje benim ilk projelerimden bir tanesi
+2022 yılının son çeyreğinde yapıldı
